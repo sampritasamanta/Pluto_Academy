@@ -1,6 +1,3 @@
-# Pluto_Academy
-AI &amp; ML Internship Projects - Pluto Academy
-
 # Pluto Academy — AI & ML Internship Projects
 
 This repository contains my projects completed as part of the Pluto Academy AI & ML Internship Program.
